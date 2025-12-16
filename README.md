@@ -48,3 +48,27 @@ WiFi-UPS (ДБЖ для роутера) — це пристрій, який за
 # Корпус
 
 Корпус моделювався у програмі Fusion360, у папці [3D models](/3D%20Models/) розміщений файл проекту [f3z](/3D%20Models/V1.1%20(Latest)/Fusion%20file) та [STL](/3D%20Models/V1.1%20(Latest)/STLs) файли для друку. Файли рекомендовано використовувати з папки [V1.1(Latest)](/3D%20Models/V1.1%20(Latest)/) оскільки це остання версія де виправлені деякі дрібні недоліки.
+
+---
+
+<img src="3D Models/Renders/Image_1.png" alt="Circuit_Image" width="80%">
+<img src="3D Models/Renders/Image_2.png" alt="Circuit_Image" width="80%">
+<img src="3D Models/Renders/Image_3.png" alt="Circuit_Image" width="80%">
+<img src="3D Models/Renders/Image_4.png" alt="Circuit_Image" width="80%">
+<img src="3D Models/Renders/Image_5.png" alt="Circuit_Image" width="80%">
+<img src="3D Models/Renders/Image_6.png" alt="Circuit_Image" width="80%">
+<img src="3D Models/Renders/Image_7.png" alt="Circuit_Image" width="80%">
+<img src="3D Models/Renders/Image_8.png" alt="Circuit_Image" width="80%">
+
+Корпус проектувався модульно та складається з 5 частин:
+1. Основний кейс
+2. Передня панель
+3. Задня панель
+4. Кришка
+5. Букви
+
+Складання корпусу:
+У основному кейсі є 4 отвори під гайки М3 та спеціальні пази з двох сторін у які вставляється передня та задня панелі, верхня кришка їх прижимає і закручується болтами M3x6 до основного кейсу, на верхню кришку ми наносимо суперклей у отвори під букви та закладаємо їх.
+
+<img src="3D Models/Renders/Image_9.png" alt="Circuit_Image" width="80%">
+<img src="3D Models/Renders/Image_10.png" alt="Circuit_Image" width="80%">
