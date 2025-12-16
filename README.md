@@ -97,3 +97,105 @@ WiFi-UPS (ДБЖ для роутера) — це пристрій, який за
 | 15 | [Гайки М3](https://www.rcscomponents.kiev.ua/product/haika-m3-otsynk-bila-din934-b3-bn117_26436.html) | 4шт |
 | 16 | Акумулятори 18650 ємністю > 1500mAh | 4шт |
 | 17 | Роздрукований корпус | 1шт |
+
+# Всі деталі в зборі
+
+<img src="/Photos/Image_6.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_7.JPG" alt="Circuit_Image" width="80%">
+
+# Процес збірки
+### 1. Припаюємо всі комірки холдера паралельно
+<img src="/Photos/Image_8.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_9.JPG" alt="Circuit_Image" width="80%">
+
+### 3. Припаюємо плату BMS 3S 15A
+<img src="/Photos/Image_10.JPG" alt="Circuit_Image" width="80%">
+
+### 4. Надалі використовуватиметься температурно стійкий клей герметик Kafuter 704
+<img src="/Photos/Image_11.JPG" alt="Circuit_Image" width="80%">
+
+### 5. Кріпимо плату BMS герметиком на холдер
+<img src="/Photos/Image_12.JPG" alt="Circuit_Image" width="80%">
+
+### 6. Закручуємо холдер болтами на корпус
+<img src="/Photos/Image_13.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_14.JPG" alt="Circuit_Image" width="80%">
+
+### 8. Налаштовуємо необхідну напругу на модулях MT3508 та MINI360
+<img src="/Photos/Image_15.JPG" alt="Circuit_Image" width="50%">
+<img src="/Photos/Image_16.JPG" alt="Circuit_Image" width="50%">
+<img src="/Photos/Image_17.JPG" alt="Circuit_Image" width="50%">
+
+### 11. Лудимо контакти на модулях
+<img src="/Photos/Image_18.JPG" alt="Circuit_Image" width="80%">
+
+### 12. Наносимо клей герметик на посадкові місця
+<img src="/Photos/Image_19.JPG" alt="Circuit_Image" width="80%">
+
+### 13. Садимо модулі на посадкові місця
+<img src="/Photos/Image_20.JPG" alt="Circuit_Image" width="80%">
+
+### 14. Лудимо контакти та вставляємо плату адаптер з type-c роз'ємом у паз
+<img src="/Photos/Image_21.JPG" alt="Circuit_Image" width="80%">
+
+### 15. Припаюємо кабелі до DC гнізд та ізолюємо термоусадками
+<img src="/Photos/Image_22.JPG" alt="Circuit_Image" width="80%">
+
+### 16. Закріплюємо гназда на передній та задній панелі
+<img src="/Photos/Image_23.JPG" alt="Circuit_Image" width="50%">
+<img src="/Photos/Image_24.JPG" alt="Circuit_Image" width="50%">
+
+### 18. Припаюємо кабелі до індикатора заряду та вставляємо у паз на передній панелі
+<img src="/Photos/Image_25.JPG" alt="Circuit_Image" width="50%">
+<img src="/Photos/Image_27.JPG" alt="Circuit_Image" width="50%">
+<img src="/Photos/Image_26.JPG" alt="Circuit_Image" width="50%">
+
+### 26. Припаюємо 2 діоди на макетну плату
+<img src="/Photos/Image_33.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_34.JPG" alt="Circuit_Image" width="80%">
+
+### 21. Далі паяємо всі провідники по схемі
+<img src="/Photos/Image_28.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_29.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_30.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_31.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_32.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_35.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_36.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_37.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_38.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_39.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_40.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_41.JPG" alt="Circuit_Image" width="80%">
+
+### Ще раз перевіряємо схему на правильність підключення та правильною полярністю вставляємо акумулятори у холдер.
+<img src="/Photos/Image_42.JPG" alt="Circuit_Image" width="50%">
+<img src="/Photos/Image_44.JPG" alt="Circuit_Image" width="50%">
+
+### 20. На верхню кришку по середині клеємо якийсь ущільнювач з паралону чи гуми, щоб акумулятори не випадали з холдеру.
+<img src="/Photos/Image_43.JPG" alt="Circuit_Image" width="80%">
+
+### Закладаємо гайки у пази, закладаємо верхню кришку, закручуємо болтами та вклеюємо надруковані букви. 
+<img src="/Photos/Image_48.JPG" alt="Circuit_Image" width="80%">
+
+### 20. Далі зробимо 2 DC-DC кабеля для роутера та ONU терміналу
+<img src="/Photos/Image_45.JPG" alt="Circuit_Image" width="80%">
+
+### 20. Припаюємо + та - до штекерів
+<img src="/Photos/Image_46.JPG" alt="Circuit_Image" width="80%">
+
+### 20. Закручуємо пластикові кожухи.
+<img src="/Photos/Image_47.JPG" alt="Circuit_Image" width="80%">
+
+### Готово!
+
+# Фінальний результат:
+<img src="/Photos/Image_1.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_2.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_3.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_4.JPG" alt="Circuit_Image" width="80%">
+<img src="/Photos/Image_5.JPG" alt="Circuit_Image" width="80%">
+
+Якщо у вас залишились питання або маєте пропозиції,[мій Discord](stanislav_1309)
+Розробник: [www.youtube.com/@TehnoMaisterna](https://www.youtube.com/@TehnoMaisterna/videos)
+
