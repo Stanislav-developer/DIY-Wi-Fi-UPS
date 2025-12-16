@@ -72,3 +72,28 @@ WiFi-UPS (ДБЖ для роутера) — це пристрій, який за
 
 <img src="3D Models/Renders/Image_9.png" alt="Circuit_Image" width="80%">
 <img src="3D Models/Renders/Image_10.png" alt="Circuit_Image" width="80%">
+
+## [Файл Fusion f3z для редагування](/3D%20Models/V1.1%20(Latest)/Fusion%20file)
+## [STL файли для друку](/3D%20Models/V1.1%20(Latest)/STLs)
+
+# Необхідні компоненти для збірки
+
+| НОМЕР | НАЗВА | КІЛЬКІСТЬ |
+| :---: | :---: | :--: |
+| 1 | [Холдер для 4-х акумуляторів 18650](https://www.rcscomponents.kiev.ua/product/korpus-dlia-4x18650-gt-18650-pc8_179556.html) | 1шт |
+| 2 | [Підвищуючий dc-dc перетворювач MT3608](https://www.rcscomponents.kiev.ua/product/rehulovanyi-dc-dc-step-up-modul-zhyvlennia-mt3608_123033.html) | 2шт |
+| 3 | [Плата заряду IP2312](https://www.rcscomponents.kiev.ua/product/modul-zariadnyi-type-c-dlia-18650-1s-3a-4-2v_188209.html) | 1шт |
+| 4 | [Понижувальний dc-dc модуль MINI360](https://www.rcscomponents.kiev.ua/product/dc-dc-ponyzhuiuchyi-peretvoriuvach-z-rehuliuvanniam-mini-360-vkhid-4-75v-23v-vykhid-1-0v-17v-2a_200045.html) | 1шт |
+| 5 | [Плата BMS 1S 15A](https://myproject.com.ua/bms-6mos-modul-zakhystu-dlia-li-ion-akumuliatora-1s.html) | 1шт |
+| 6 | [Індикатор заряду для 1s Li-Ion](https://www.rcscomponents.kiev.ua/product/indykator-zariadu-litiievoi-batarei-1s-synii_211004.html) | 1шт |
+| 7 | [DC гніздо 5.5x2.1mm](https://www.rcscomponents.kiev.ua/product/hnizdo-zhyvlennia-chorne-na-korpus-5-5x2-1mm-dc-022b_213085.html) | 3шт |
+| 8 | [DC штекер 5.5x2.1mm](https://www.rcscomponents.kiev.ua/product/shteker-na-kabel-2-1-5-5-korotkyi-pc-2-1-5-5-vylka-zhyvlennia-dc-mama-z-korpusom-2-1-5-5-mm-dovzhyna-9mm_25189.html) | 4шт |
+| 9 | [Вимикач KCD-11](https://www.rcscomponents.kiev.ua/product/kcd-11-on-off-spst-2p-vymykaie-0-vmykaie-peremykach-klavishnyi-rocker-global-tone_211814.html) | 1шт |
+| 10 | [TypeC плата адаптер](https://myproject.com.ua/usb31-type-c-plata-perekhidnyk.html) | 1шт |
+| 11 | [Діоди Шотткі 1N5820/SR540](https://www.rcscomponents.kiev.ua/product/sr540_20328.html) | 2шт |
+| 12 | [Макетна плата (необов'язково)](https://www.rcscomponents.kiev.ua/product/maketna-plata-2x8-dvostoronnia-zelena_144385.html) | 1шт |
+| 13 | [Силіконовий термостійкий кабель 20AWG](https://www.rcscomponents.kiev.ua/product/sylikonovyi-provid-20awg-0-5mm-100-0-08ts-korychnevyi_210526.html) | 3м |
+| 14 | [Болти M3x6](https://www.rcscomponents.kiev.ua/product/hvynt-iz-sferychnoiu-holovkoiu-m3x6-nerzhaviiucha-stal-304-ph-din-7985_194111.html) | 12шт |
+| 15 | [Гайки М3](https://www.rcscomponents.kiev.ua/product/haika-m3-otsynk-bila-din934-b3-bn117_26436.html) | 4шт |
+| 16 | Акумулятори 18650 ємністю > 1500mAh | 4шт |
+| 17 | Роздрукований корпус | 1шт |
