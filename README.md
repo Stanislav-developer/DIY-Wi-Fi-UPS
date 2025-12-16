@@ -1,5 +1,5 @@
 # DIY WiFi-UPS
-### Джерело безперебійного живлення для WiFi роутерів та ONU терміналів
+## Джерело безперебійного живлення для WiFi роутерів та ONU терміналів
 
 <!-- Коментар -->
 <img src="/Photos/Image_1.JPG" alt="Main_Image" width="80%">
@@ -36,3 +36,7 @@ WiFi-UPS (ДБЖ для роутера) — це пристрій, який за
 
 ---
 
+# Схема
+<img src="/Photos/Circuit_Image.png" alt="Circuit_Image" width="80%">
+
+[Переглянути схему у повній якості](./Photos/Circuit_Image.png)
