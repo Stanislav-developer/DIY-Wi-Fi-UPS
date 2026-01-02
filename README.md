@@ -3,7 +3,7 @@
 
 <img src="/Photos/Image_1.JPG" alt="Main_Image" width="80%">
 
-## 🎥 Відеоінструкція
+## 🎥 Відеоогляд
 [![Дивитись на YouTube](https://img.shields.io/badge/YouTube-Переглянути_відео-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sND7h0Se98U?si=vJhYa3pCK-HSEh80)
 
 # Опис:
